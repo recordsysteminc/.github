@@ -1,69 +1,48 @@
-# Welcome to RECORD System Inc's GitHub Organization
+# Welcome to RECORD
 
-This README provides an overview of our main repositories, which are integral to the development and operation of our services. Our projects include a web portal, a mobile app, and our main marketing website. Below you'll find descriptions and links to each repository.
+## Our Mission
 
-## Repositories
+At RECORD System Inc, our mission is to revolutionize technology for personal injury law firms, enhancing the client and attorney experience through simplicity, efficiency, and innovation. We understand the unique challenges in the legal field and are dedicated to creating solutions that streamline case management and client communication.
 
-### 1. [Web Portal Repository](https://github.com/recordsysteminc/web)
-**Repository**: [recordsysteminc/web](https://github.com/recordsysteminc/web)
+## Our Development Philosophy
 
-**Description**: 
-This repository hosts the code for our online portal, primarily designed for law firms and soon for medical providers. Built with Next.js, this portal offers an intuitive and efficient way for our users to interact with our services. 
+1. **Empathy and User-Centric Design**: We prioritize understanding our users' needs, ensuring our technology addresses the specific challenges faced by personal injury law firms.
 
-**Tech Stack**: 
-- Next.js
-- Supabase (for data storage)
+2. **Simplicity and Clarity**: Our commitment is to offer intuitive products, transforming complex legal processes into user-friendly solutions.
 
-### 2. [Mobile App Repository](https://github.com/recordsysteminc/app)
-**Repository**: [recordsysteminc/app](https://github.com/recordsysteminc/app)
+3. **Innovation with Purpose**: We continually advance our technology, ensuring it not only meets current industry standards but also anticipates future needs.
 
-**Description**: 
-Our mobile app, created using React Native, Expo, and TypeScript, is a key component of our service, offering clients a convenient way to track and manage their cases. 
+4. **Security and Trust**: Recognizing the sensitivity of legal data, we emphasize the security and privacy of our users' information.
 
-**Tech Stack**: 
-- React Native
-- Expo
-- TypeScript
-- Supabase (for data storage)
+5. **Inclusivity and Accessibility**: Our aim is to make our technology accessible to a diverse range of users, accommodating different needs and capabilities.
 
-### 3. [Marketing Website Repository](https://github.com/recordsysteminc/www)
-**Repository**: [recordsysteminc/www](https://github.com/recordsysteminc/www)
+## Our Projects
 
-**Description**: 
-The 'www' repository is dedicated to our main marketing website, built with Gatsby. It includes integration with a WordPress component for our blog, managed in a separate repository ([getrecordblog](https://github.com/recordsysteminc/getrecordblog)).
+Our current projects focus on providing comprehensive technological solutions for personal injury law firms. In the future, we aim to expand our services to medical providers, enhancing our impact across the personal injury ecosystem.
 
-**Tech Stack**: 
-- Gatsby
-- WordPress (for blog articles)
+- **Web Portal for Law Firms**: A Next.js-based portal currently serving law firms, with plans to expand to medical providers.
+- **Mobile App for Case Management**: Utilizing React Native and Expo, this app streamlines case tracking and management.
+- **Marketing Website**: Our main online presence at [getrecord.com](https://www.getrecord.com), built with Gatsby, featuring a WordPress-integrated blog.
 
-## Getting Started
+## Future Goals
 
-To get started with any of these projects:
+As we evolve, our goals include:
 
-1. Clone the desired repository.
-2. Install dependencies.
-3. Set up environment variables (reach out to the team for necessary variables).
-4. Follow repository-specific instructions for running the project locally.
+- Utilizing AI to improve case handling and predictive analysis.
+- Creating a comprehensive personal injury ecosystem by supporting a broader range of participants, including medical providers.
+- Facilitating referrals for individuals seeking legal representation.
 
-## Support
+## Connect with Us
 
-For changes related to specific tasks, please refer to the activity logs on Linear. If no task is available, use Slack for communication. Using Linear for questions and discussion helps keep all conversations about a topic in one place for easy reference.
+We are eager to connect with personal injury law firms interested in our technology, as well as potential investors who share our vision for transforming legal tech.
 
-## Contribution Guidelines
+- [Contact Us](https://www.getrecord.com/contact/)
+- [LinkedIn](https://www.linkedin.com/company/getrecord)
 
-- Ensure you're working with the latest version of the `dev` branch.
-- Write clear and descriptive commit messages.
-- Regularly push your changes to avoid losing work.
-- Ask for help when in doubt – we're a collaborative team!
-- For pull requests, use the exact title from your task in Linear for clarity.
+## Note
 
-## Additional Resources
-
-- [Portal Quick Start Guide](https://github.com/recordsysteminc/web#-portal-quick-start)
-- [Git Workflow Guide](https://github.com/recordsysteminc/web#-git-workflow-guide)
-- [Creating a Pull Request](https://github.com/recordsysteminc/web#️-creating-a-pull-request)
+While we are not actively hiring, we are always interested in fostering relationships with those who share our passion for advancing legal technology.
 
 ---
 
-Welcome aboard, and happy coding!
-
+At Record System Inc, we are committed to building a future where legal technology is not just advanced but also accessible, empowering law firms and their clients alike.

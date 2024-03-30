@@ -1,4 +1,6 @@
 # Welcome to RECORD
+<details>
+    <summary>View Details</summary>
 
 ## Our Mission
 
@@ -46,3 +48,4 @@ While we are not actively hiring, we are always interested in fostering relation
 ---
 
 At Record System Inc, we are committed to building a future where legal technology is not just advanced but also accessible, empowering law firms and their clients alike.
+</details>

@@ -1,10 +1,10 @@
-# Welcome to RECORD
+# Welcome to Quilia
 <details>
     <summary>View Details</summary>
 
 ## Our Mission
 
-At RECORD System Inc, our mission is to revolutionize technology for personal injury law firms, enhancing the client and attorney experience through simplicity, efficiency, and innovation. We understand the unique challenges in the legal field and are dedicated to creating solutions that streamline case management and client communication.
+At Record System, Inc, our mission is to revolutionize technology for personal injury law firms, enhancing the client and attorney experience through simplicity, efficiency, and innovation. We understand the unique challenges in the legal field and are dedicated to creating solutions that streamline case management and client communication.
 
 ## Our Development Philosophy
 
@@ -24,7 +24,7 @@ Our current projects focus on providing comprehensive technological solutions fo
 
 - **Web Portal for Law Firms**: A Next.js-based portal currently serving law firms, with plans to expand to medical providers.
 - **Mobile App for Case Management**: Utilizing React Native and Expo, this app streamlines case tracking and management.
-- **Marketing Website**: Our main online presence at [getrecord.com](https://www.getrecord.com), built with Gatsby, featuring a WordPress-integrated blog.
+- **Marketing Website**: Our main online presence at [quilia.com](https://www.quilia.com), built with Gatsby, featuring a WordPress-integrated blog.
 
 ## Future Goals
 
@@ -38,8 +38,8 @@ As we evolve, our goals include:
 
 We are eager to connect with personal injury law firms interested in our technology, as well as potential investors who share our vision for transforming legal tech.
 
-- [Contact Us](https://www.getrecord.com/contact/)
-- [LinkedIn](https://www.linkedin.com/company/getrecord)
+- [Contact Us](https://www.quilia.com/contact/)
+- [LinkedIn](https://www.linkedin.com/company/heyquilia)
 
 ## Note
 
@@ -47,5 +47,5 @@ While we are not actively hiring, we are always interested in fostering relation
 
 ---
 
-At Record System Inc, we are committed to building a future where legal technology is not just advanced but also accessible, empowering law firms and their clients alike.
+At Record System, Inc, we are committed to building a future where legal technology is not just advanced but also accessible, empowering law firms and their clients alike.
 </details>
